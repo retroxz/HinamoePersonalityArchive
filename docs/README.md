@@ -1,6 +1,7 @@
 ---
 home: true
 heroText: HinamoePersonalityArchive
+heroImage: /logo.png
 tagline: 雏萌人格档案
 actionText: 开始阅读 →
 actionLink: /guide/
