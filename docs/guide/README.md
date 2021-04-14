@@ -1,4 +1,4 @@
-# 头部设定
+# 形象设定
 
 
 
@@ -8,7 +8,7 @@
 
 *参考*
 
-<img src="../resource/img/image-20210413005657330.png" width=50%/>
+<img src="../resource/img/image-20210413005657330.png" width=45%/>
 
 
 
